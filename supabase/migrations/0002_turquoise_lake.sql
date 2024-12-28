@@ -74,5 +74,5 @@ INSERT INTO dishes (name, description, price, image_url, category) VALUES
 ('Osso Buco', 'Braised veal shanks with gremolata', 32.99, 'https://images.unsplash.com/photo-1544359355-efb7d5579910', 'main'),
 ('Duck Confit', 'Crispy duck leg with cherry sauce', 29.99, 'https://thesecretsuppersociety.com/wp-content/uploads/2019/11/confit-duck-feature.jpg', 'main'),
 ('Beef Wellington', 'Beef tenderloin wrapped in puff pastry', 38.99, 'https://grillmomma.com/wp-content/uploads/2020/12/IMG_1986_jpg-3-scaled-e1609300974309.jpg', 'main'),
-('Stuffed Portobello', 'Quinoa and vegetable stuffed mushroom', 18.99, 'https://www.spendwithpennies.com/wp-content/uploads/2023/06/Stuffed-Portobello-Mushrooms-SpendWithPennies-12-1024x1536.jpg', 'main'),
+('Stuffed Portobe', 'Quinoa and vegetable stuffed mushroom', 18.99, 'https://www.spendwithpennies.com/wp-content/uploads/2023/06/Stuffed-Portobello-Mushrooms-SpendWithPennies-12-1024x1536.jpg', 'main'),
 ('Braised Short Ribs', 'Slow-cooked beef short ribs with red wine sauce', 31.99, 'https://images.unsplash.com/photo-1544025162-d76694265947', 'main');
