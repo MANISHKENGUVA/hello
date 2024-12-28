@@ -57,7 +57,7 @@ INSERT INTO dishes (name, description, price, image_url, category) VALUES
 ('Pear and Gorgonzola', 'Mixed greens with pears, gorgonzola, and candied walnuts', 13.99, 'https://images.unsplash.com/photo-1604497181015-76590d828b75', 'salad'),
 
 -- Desserts
-('Chocolate Lava Cake', 'Warm chocolate cake with molten center', 8.99, 'https://images.unsplash.com/photo-1624353365286-3f8d62daad51', 'dessert'),
+('Chocolate Lava Cake', 'Warmer chocolate cake with molten center', 8.99, 'https://images.unsplash.com/photo-1624353365286-3f8d62daad51', 'dessert'),
 ('Crème Brûlée', 'Classic vanilla custard with caramelized sugar', 7.99, 'https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3', 'dessert'),
 ('Cannoli', 'Sicilian pastry filled with sweet ricotta', 6.99, 'https://bakerbynature.com/wp-content/uploads/2016/11/untitled-35-of-101.jpg', 'dessert'),
 ('Gelato Selection', 'Choice of three artisanal gelato flavors', 7.99, 'https://images.unsplash.com/photo-1567206563064-6f60f40a2b57', 'dessert'),
