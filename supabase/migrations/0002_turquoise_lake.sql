@@ -18,13 +18,13 @@ INSERT INTO dishes (name, description, price, image_url, category) VALUES
 ('Bruschetta', 'Grilled bread rubbed with garlic, topped with diced tomatoes, fresh basil, and olive oil', 8.99, 'https://images.unsplash.com/photo-1572695157366-5e585ab2b69f', 'appetizer'),
 ('Calamari Fritti', 'Crispy fried squid rings served with marinara sauce', 12.99, 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0', 'appetizer'),
 ('Caprese Salad', 'Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze', 10.99, 'https://images.unsplash.com/photo-1608897013039-887f21d8c804', 'appetizer'),
-('Garlic Knots', 'Freshly baked knots brushed with garlic butter and herbs', 6.99, 'https://images.unsplash.com/photo-1600628421055-4d30de868b8f', 'appetizer'),
+('Garlic Knots', 'Freshly baked knots brushed with garlic butter and herbs', 6.99, 'https://www.dinneratthezoo.com/wp-content/uploads/2017/12/garlic-knots-4.jpg', 'appetizer'),
 ('Mozzarella Sticks', 'Breaded mozzarella served with marinara sauce', 8.99, 'https://images.unsplash.com/photo-1531749668029-257f2a5b93f8', 'appetizer'),
 
 -- Main Courses
 ('Grilled Ribeye', '12oz ribeye steak with roasted vegetables and garlic mashed potatoes', 34.99, 'https://images.unsplash.com/photo-1600891964092-4316c288032e', 'main'),
 ('Chicken Marsala', 'Pan-seared chicken breast in marsala wine sauce with mushrooms', 24.99, 'https://images.unsplash.com/photo-1604908176997-125f25cc6f3d', 'main'),
-('Veal Parmesan', 'Breaded veal cutlet with marinara sauce and melted mozzarella', 28.99, 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8', 'main'),
+('Veal Parmesan', 'Breaded veal cutlet with marinara sauce and melted mozzarella', 28.99, 'https://static01.nyt.com/images/2015/02/04/dining/0204-PARM3JP/0204-PARM3JP-jumbo.jpg', 'main'),
 ('Rack of Lamb', 'Herb-crusted lamb rack with mint sauce and roasted potatoes', 36.99, 'https://images.unsplash.com/photo-1602473812169-a7fa61c1a787', 'main'),
 ('Eggplant Parmesan', 'Layers of breaded eggplant with marinara sauce and cheese', 19.99, 'https://images.unsplash.com/photo-1625937286074-9ca519d5d9df', 'main'),
 
@@ -43,8 +43,8 @@ INSERT INTO dishes (name, description, price, image_url, category) VALUES
 ('Diavola', 'Spicy salami, chili flakes, and mozzarella', 17.99, 'https://images.unsplash.com/photo-1595708684082-a173bb3a06c5', 'pizza'),
 
 -- Seafood
-('Grilled Salmon', 'Atlantic salmon with lemon butter sauce', 27.99, 'https://images.unsplash.com/photo-1567189022364-40c01b064012', 'seafood'),
-('Lobster Thermidor', 'Lobster in rich cream sauce with mushrooms', 42.99, 'https://images.unsplash.com/photo-1553247407-23251ce81f59', 'seafood'),
+('Grilled Salmon', 'Atlantic salmon with lemon butter sauce', 27.99, 'https://www.allrecipes.com/thmb/35MaHiMJlIFq6swKkwGZW3yCmbM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-12720-grilled-salmon-i-VAT-step-01-59aa450671e04343978529778bd280fc.jpg', 'seafood'),
+('Lobster Thermidor', 'Lobster in rich cream sauce with mushrooms', 42.99, 'https://www.allrecipes.com/thmb/uKh4prMGo9sljoeDlBnca-nHnP8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-87386-Lobster-Thermidor-DDMFS-4x3-3d182e9ac5ac494fbbb44787cd80fdad.jpg', 'seafood'),
 ('Shrimp Scampi', 'Garlic shrimp in white wine sauce over linguine', 25.99, 'https://images.unsplash.com/photo-1625943553852-781c6dd46faa', 'seafood'),
 ('Sea Bass', 'Pan-seared sea bass with Mediterranean herbs', 32.99, 'https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62', 'seafood'),
 ('Frutti di Mare', 'Mixed seafood in spicy tomato sauce', 29.99, 'https://images.unsplash.com/photo-1590759668628-05b0fc34bb70', 'seafood'),
@@ -59,7 +59,7 @@ INSERT INTO dishes (name, description, price, image_url, category) VALUES
 -- Desserts
 ('Chocolate Lava Cake', 'Warm chocolate cake with molten center', 8.99, 'https://images.unsplash.com/photo-1624353365286-3f8d62daad51', 'dessert'),
 ('Crème Brûlée', 'Classic vanilla custard with caramelized sugar', 7.99, 'https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3', 'dessert'),
-('Cannoli', 'Sicilian pastry filled with sweet ricotta', 6.99, 'https://images.unsplash.com/photo-1607920591413-5d3d5d6977c9', 'dessert'),
+('Cannoli', 'Sicilian pastry filled with sweet ricotta', 6.99, 'https://bakerbynature.com/wp-content/uploads/2016/11/untitled-35-of-101.jpg', 'dessert'),
 ('Gelato Selection', 'Choice of three artisanal gelato flavors', 7.99, 'https://images.unsplash.com/photo-1567206563064-6f60f40a2b57', 'dessert'),
 ('Apple Tart', 'Warm apple tart with vanilla ice cream', 8.99, 'https://images.unsplash.com/photo-1568571780765-9276ac8b75a7', 'dessert'),
 
@@ -72,7 +72,7 @@ INSERT INTO dishes (name, description, price, image_url, category) VALUES
 
 -- Additional Main Courses
 ('Osso Buco', 'Braised veal shanks with gremolata', 32.99, 'https://images.unsplash.com/photo-1544359355-efb7d5579910', 'main'),
-('Duck Confit', 'Crispy duck leg with cherry sauce', 29.99, 'https://images.unsplash.com/photo-1580554530778-ca36943938b2', 'main'),
-('Beef Wellington', 'Beef tenderloin wrapped in puff pastry', 38.99, 'https://images.unsplash.com/photo-1600891964092-4316c288032e', 'main'),
-('Stuffed Portobello', 'Quinoa and vegetable stuffed mushroom', 18.99, 'https://images.unsplash.com/photo-1619740455993-9d701a19b8ef', 'main'),
+('Duck Confit', 'Crispy duck leg with cherry sauce', 29.99, 'https://thesecretsuppersociety.com/wp-content/uploads/2019/11/confit-duck-feature.jpg', 'main'),
+('Beef Wellington', 'Beef tenderloin wrapped in puff pastry', 38.99, 'https://grillmomma.com/wp-content/uploads/2020/12/IMG_1986_jpg-3-scaled-e1609300974309.jpg', 'main'),
+('Stuffed Portobello', 'Quinoa and vegetable stuffed mushroom', 18.99, 'https://www.spendwithpennies.com/wp-content/uploads/2023/06/Stuffed-Portobello-Mushrooms-SpendWithPennies-12-1024x1536.jpg', 'main'),
 ('Braised Short Ribs', 'Slow-cooked beef short ribs with red wine sauce', 31.99, 'https://images.unsplash.com/photo-1544025162-d76694265947', 'main');
